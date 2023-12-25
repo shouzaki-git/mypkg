@@ -33,7 +33,8 @@ $ ros2 launch mypkg talk_listen.launch.py
 ## テスト環境
 * Ubuntu22.04
 * 以下のコンテナを使用
-  * [ryuichiueda/ubuntu22.04-ros2](https://hub.docker.com/repository/docker/ryuichiueda/ubuntu22.04-ros2)
+  * [ryuichiueda/ubuntu22.04-ros2](https://hub.docker.com/r/ryuichiueda/ubuntu22.04-ros2)
+
 ## ライセンス
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布及び使用が許可されます。
 * このパッケージのコードは、下記のスライド(CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としたものです。
