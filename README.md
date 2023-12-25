@@ -6,7 +6,7 @@ ROS 2の練習用のパッケージです。
 ## このプログラムについて
 
 * このプログラムでは、パブリッシャーであるtalker.pyがトピックを通してInt16型のメッセージを送信し、サブスクライバーであるlitener.pyでメッセージを受け取り表示する。 
-* launchで実行するとtalkerとlistenerを１つのターミナルで実行可能
+* talk_listen.launch.pyで実行するとtalker.pyとlistener.pyを１つのターミナルで実行可能
 
 
 ## 使い方
@@ -23,7 +23,7 @@ $ ros2 run mypkg listener
 ```
 $ ros2 launch mypkg talk_listen.launch.py
 ```
-talkerからの通信をlistenerが拾っている。
+
 
 ## 必要なソフトウェア
   
