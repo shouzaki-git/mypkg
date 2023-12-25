@@ -15,7 +15,7 @@ ROS 2の練習用のパッケージです。
 ```
 $ ros2 run mypkg talker
 ```
-* listenr側（２つ目のターミナル）
+* listener側（２つ目のターミナル）
 ```
 $ ros2 run mypkg listener
 ```
