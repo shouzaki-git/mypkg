@@ -1,5 +1,5 @@
 # aaaa
-
+[![test](http://github.com/shouzaki-git/mypkg/actions/workflows/test.yml/badge.svg)](http://github.com/shouzaki-git/mypkg/actions/workflows/test.yml/badge.svg)
 ## 使い方
 aaaa
 ## 必要なソフトウェア
