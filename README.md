@@ -1,11 +1,15 @@
 # mypkg
 [![test](http://github.com/shouzaki-git/mypkg/actions/workflows/test.yml/badge.svg)](http://github.com/shouzaki-git/mypkg/actions/workflows/test.yml/badge.svg)
 
-パブリッシャーのtalkerとサブスクライバーのlistenerが通信している様子を見る
+ROS 2の練習用のパッケージです。
 
 ## このソフトウェアについて
 
-* launchで実行するためtalkerとlistenerを同時に観測可能
+* launchで実行するためtalkerとlistenerを同時に実行可能
+
+## トピックについて
+
+* talkerとlistenerのデータをつなぐ役割をしている。
 
 ## 使い方
 ```
