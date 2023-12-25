@@ -1,10 +1,27 @@
-# aaaa
+# mypkg
 [![test](http://github.com/shouzaki-git/mypkg/actions/workflows/test.yml/badge.svg)](http://github.com/shouzaki-git/mypkg/actions/workflows/test.yml/badge.svg)
+
+パブリッシャーのtalkerとサブスクライバーのlistenerが通信している様子を見る
+
+## このソフトウェアについて
+
+launchで実行するためtalkerとlistenerを同時に観測可能
+
 ## 使い方
-aaaa
+```
+$ ros2 launch mypkg talk_listen.launch.py
+```
+talkerからの通信をlistenerが拾っている。
+
 ## 必要なソフトウェア
+  
+* Python
+  * テスト済み: 3.7~3.10
+* ROS 2
 
 ## テスト環境
+* Ubuntu22.04
+
 
 ## ライセンス
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布及び使用が許可されます。
