@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Sho Uzaki
+# SPDX-License-Identifier: BSD-3-Clause
+
 import launch
 import launch.action
 import launch.substitutions
