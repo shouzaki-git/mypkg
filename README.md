@@ -5,7 +5,7 @@
 
 ## このソフトウェアについて
 
-launchで実行するためtalkerとlistenerを同時に観測可能
+* launchで実行するためtalkerとlistenerを同時に観測可能
 
 ## 使い方
 ```
